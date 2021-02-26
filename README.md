@@ -1,5 +1,5 @@
 <p align="center">
-<img align="center" width="557" height="253" src="https://raw.githubusercontent.com/AM71113363/Biorhythm/main/info.png">
+<img align="center" width="557" height="200" src="https://raw.githubusercontent.com/AM71113363/Biorhythm/main/info.png">
 </p>
 
 # BIORHYTHM
