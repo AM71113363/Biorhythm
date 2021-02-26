@@ -6,7 +6,7 @@
 -----
 
 ## INFO <br>
-* Set Your Name and CLink[ SAVE ], then save the page as bookmark.<br>
+* Set Your Name and CLick[ SAVE ], then save the page as bookmark.<br>
 * Number Of Days(DEFAULT: 28), You Can Set Any Number.<br>
 * Download this repo [Biorhythm.zip](https://github.com/AM71113363/Biorhythm/archive/main.zip)<br>
 * OR Visit [AM71113363.github.io](https://AM71113363.github.io/)<br>
